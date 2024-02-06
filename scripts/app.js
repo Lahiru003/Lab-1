@@ -71,7 +71,7 @@ const mobileDevelopmentServiceText = "Building intuitive and performant mobile a
   footerNavbar.innerHTML = `
       <div class="container-fluid">
           <span class="navbar-text">
-              © ${currentYear} Your Company Name. All rights reserved.
+              © ${currentYear} Pramuditha. All rights reserved.
           </span>
       </div>
   `;
